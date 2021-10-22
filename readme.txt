@@ -1,1 +1,0 @@
-The Real Estate Prediction Notebook contains a detailed explaniation of the computer proramming and statistical methods used in predicting Tax Assessed Real Estate Property Values in the Philadelphia, PA region.
