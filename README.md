@@ -1,6 +1,10 @@
 # Data_Science_Projects
 Each folder contains a project that utilizes several different computer science,  financial, and statistical concepts to solve unique business problems. 
 
+Web Scrapping:
+
+1. LinkedIn Applier is a script that automatically applys for jobs for a LinkedIn user. This program can apply to jobs that only require your contact infomration and resume. The limitation of this program is that it only applies for applications that do not require unique questioning. 
+
 Regressions/Probabilities:
 
 1. Real Estate Project utilizes a multi-linear regression model, backed with it's assumptions to predict Tax Assessed Property Value for a certain property in the Philadelphia, PA region. The project also includes a visual, descriptive analytics section that gives the user a better understanding of how the data is distributed and premliminary analysis on what variables may be significant in predicting Tax Assessed Property Value.
