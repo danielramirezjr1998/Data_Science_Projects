@@ -3,15 +3,17 @@ Each folder contains a project that utilizes several different computer science,
 
 Web Scrapping:
 
-1. LinkedIn Applier is a script that automatically applys for jobs for a LinkedIn user. This program can apply to jobs that only require your contact infomration and resume. The limitation of this program is that it only applies for applications that do not require unique questioning. 
+1. LinkedIn Applier is a script that automatically applys for jobs for a LinkedIn user. This program can apply to jobs that only require your contact infomration and resume. The limitation of this program is that it only applies for applications that do not require unique questioning.
+   
+2. Earnings Calendar Scrape goes the Nasdaq Earnings Calendar and filters all the companies that are releasing earnings reports after market close that day. This list is usually 50 stocks when it's "Earnings Season".
+
+3. Nasdaq Historical Price retrieves the maximum daily historical prices for a given stock. This data is used for quantative stock analysis. 
 
 Regressions/Probabilities:
 
 1. Real Estate Project utilizes a multi-linear regression model, backed with it's assumptions to predict Tax Assessed Property Value for a certain property in the Philadelphia, PA region. The project also includes a visual, descriptive analytics section that gives the user a better understanding of how the data is distributed and premliminary analysis on what variables may be significant in predicting Tax Assessed Property Value.
 
 2. Earnings Model Project invovles the Naive Bayes Algorithm to predicts whether or not a specific, or multiple, stock(s) will increase within the range of 1% to 5%, the trading day following date that their earnings were released. The model justifies the variables used in the analysis, and is user friendly.
-
-3. Golden Cross Trading Project analyzes each golden cross occurence (when the 50 day SMA crosses over the 200 SMA) and provides an investor with information regarding how long it may take for a specific stock to appreciate by 15% following a golden cross.
 
 Natural Language Processing (NLP):
 
