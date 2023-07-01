@@ -1,5 +1,7 @@
 # Data_Science_Projects
-Each folder contains a project that utilizes several different computer science,  financial, and statistical concepts to solve unique business problems. 
+Each folder contains a project that utilizes several different computer science,  financial, and statistical concepts to solve unique business problems. Below is a link to my Google Cloud that contains videos of the code I built and how some of these programs function in real-time:
+
+https://drive.google.com/drive/folders/1DUw8DkCcvCtE4YSsbMG9Zf_vpRzjwl8w?usp=drive_link
 
 Web Scrapping:
 
